@@ -11,7 +11,6 @@ declare module '*.less';
 declare module '*.scss';
 declare module '*.sass';
 declare module '*.styl';
-declare module '*.vue' ;
 
 declare namespace NodeJS {
   interface ProcessEnv {
